@@ -53,4 +53,4 @@ jobs:
           app-name: 'apifrontt'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD4DA6CC0DD840BFAB43030D6E2B2F06 }}
-          package: "build".
+          package: "build"
